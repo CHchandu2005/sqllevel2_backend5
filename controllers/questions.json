@@ -1,0 +1,33 @@
+[
+    {
+      "question_no": 1,
+      "question": "Which teams used the least number of puzzles during the event, and how much time did they spend solving puzzles overall?",
+      "answer": "New Delhi"
+    },
+    {
+      "question_no": 2,
+      "question": "Which team solved the most difficult puzzles (Hard) in the least time ?",
+      "answer": "Jupiter"
+    },
+    {
+      "question_no": 3,
+      "question": "Identify students from teams that solved all puzzles without using any hints. and sum up there scores.",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_no": 4,
+      "question": "Identify the team member whose character matches their team name from the team with 0 minutes penalty time.",
+      "answer": "H2O"
+    },
+    {
+      "question_no": 5,
+      "question": "What is the average score of students in teams that solved at least two 'Hard' puzzles?",
+      "answer": "Africa"
+    },
+    {
+      "question_no": 6,
+      "question": "Find the 5 students selected for the real escape room based on scores, team performance (puzzle time), and hint penalties.",
+      "answer": "Africa"
+    }
+  ]
+  
